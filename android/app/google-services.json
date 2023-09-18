@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835561877604",
+    "project_id": "eos-project-ed5b0",
+    "storage_bucket": "eos-project-ed5b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835561877604:android:1e6f55bcd9aa9f0dda6f71",
+        "android_client_info": {
+          "package_name": "com.example.eos_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD52znpnfs5X6vlPAKcyOkpK9GsuJH7ayc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
